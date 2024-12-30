@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm contributor for some repo. 
+I love the open source atmosphere.
+You can give me some tricky tasks if you need.
+
 <!--
 **DragonFive/DragonFive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
