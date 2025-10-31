@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm contributor for some repositories. 
+- I am a zen lay practitioner. 
 - I love open source.
 - You can give me some tricky tasks if you need.
 
